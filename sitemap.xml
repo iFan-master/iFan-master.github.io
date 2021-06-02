@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/2021/06/02/1.GitHub%E9%83%A8%E7%BD%B2hexo%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2021-06-01</lastmod>
+    <lastmod>2021-06-02</lastmod>
     
   </url>
   
@@ -45,6 +45,20 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/hexo/</loc>
+    <lastmod>2021-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://example.com/categories/hexo/</loc>
+    <lastmod>2021-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
